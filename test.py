@@ -13,7 +13,7 @@ def main():
         st.video("traffic_video.mp4")
     
     with col2:
-        st.header("Speed Estimation Video")
+        st.header("Speed Traffic Video")
         st.video("speed_estimation_traffic_video.mp4")
     
     st.markdown("""
